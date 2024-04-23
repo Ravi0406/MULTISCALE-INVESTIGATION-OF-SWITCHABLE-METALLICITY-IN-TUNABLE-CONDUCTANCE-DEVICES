@@ -1,0 +1,2 @@
+# MULTISCALE-INVESTIGATION-OF-SWITCHABLE-METALLICITY-IN-TUNABLE-CONDUCTANCE-DEVICES
+Driven by the insatiable thirst for sustainable and high-performance electronics, Manganese disulfide (MnS2) emerges from the shadows, a humble layered material poised to revolutionize the field. Its seemingly ordinary form belies a symphony of remarkable properties: tunable electrical conductivity, exceptional electrochemical activity.
